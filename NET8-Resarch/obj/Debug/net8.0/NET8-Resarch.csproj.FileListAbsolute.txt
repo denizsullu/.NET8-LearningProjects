@@ -1,0 +1,15 @@
+/home/deniz/RiderProjects/ConsoleApp1/NET8-Resarch/bin/Debug/net8.0/NET8-Resarch
+/home/deniz/RiderProjects/ConsoleApp1/NET8-Resarch/bin/Debug/net8.0/NET8-Resarch.deps.json
+/home/deniz/RiderProjects/ConsoleApp1/NET8-Resarch/bin/Debug/net8.0/NET8-Resarch.runtimeconfig.json
+/home/deniz/RiderProjects/ConsoleApp1/NET8-Resarch/bin/Debug/net8.0/NET8-Resarch.dll
+/home/deniz/RiderProjects/ConsoleApp1/NET8-Resarch/bin/Debug/net8.0/NET8-Resarch.pdb
+/home/deniz/RiderProjects/ConsoleApp1/NET8-Resarch/obj/Debug/net8.0/NET8-Resarch.GeneratedMSBuildEditorConfig.editorconfig
+/home/deniz/RiderProjects/ConsoleApp1/NET8-Resarch/obj/Debug/net8.0/NET8-Resarch.AssemblyInfoInputs.cache
+/home/deniz/RiderProjects/ConsoleApp1/NET8-Resarch/obj/Debug/net8.0/NET8-Resarch.AssemblyInfo.cs
+/home/deniz/RiderProjects/ConsoleApp1/NET8-Resarch/obj/Debug/net8.0/NET8-Resarch.csproj.CoreCompileInputs.cache
+/home/deniz/RiderProjects/ConsoleApp1/NET8-Resarch/obj/Debug/net8.0/NET8-Resarch.sourcelink.json
+/home/deniz/RiderProjects/ConsoleApp1/NET8-Resarch/obj/Debug/net8.0/NET8-Resarch.dll
+/home/deniz/RiderProjects/ConsoleApp1/NET8-Resarch/obj/Debug/net8.0/refint/NET8-Resarch.dll
+/home/deniz/RiderProjects/ConsoleApp1/NET8-Resarch/obj/Debug/net8.0/NET8-Resarch.pdb
+/home/deniz/RiderProjects/ConsoleApp1/NET8-Resarch/obj/Debug/net8.0/NET8-Resarch.genruntimeconfig.cache
+/home/deniz/RiderProjects/ConsoleApp1/NET8-Resarch/obj/Debug/net8.0/ref/NET8-Resarch.dll
