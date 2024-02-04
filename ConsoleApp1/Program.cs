@@ -25,6 +25,10 @@ else
 }
 string[] loans = {"kredi1","kredi2","kredi3","kredi4","kredi5","kredi6"};
 string[] loans2 = new string[2];
+for (int i = 0; i < loans.Length; i++)
+{
+    Console.WriteLine(loans[i]);
+}
 
 Course course1 = new Course();
 course1.Id = 1;
